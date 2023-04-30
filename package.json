@@ -11,5 +11,6 @@
     "ECMAScript"
   ],
   "author": "Ralerv <ramos_rrv@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
